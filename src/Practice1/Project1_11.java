@@ -1,6 +1,6 @@
 package Practice1;
 
-public class Project11 {
+public class Project1_11 {
 
 	public static void main(String[] args) {
 		// TODO 自動生成されたメソッド・スタブ
