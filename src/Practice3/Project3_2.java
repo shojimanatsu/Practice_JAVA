@@ -1,4 +1,4 @@
-package Practice1;
+package Practice3;
 
 import java.io.BufferedReader;
 import java.io.IOException;
