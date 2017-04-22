@@ -70,6 +70,8 @@ public class Project3_9 {
 			System.out.println("“y—j“ú‚ÌŒßŒã‚Í‹xf‚Å‚·B");
 		} else if (weekday==6 && time==2) {
 			System.out.println("“y—j“ú‚ÌŒßŒã‚Í‹xf‚Å‚·B");
+		} else{
+			System.out.println("ŠY“–‚·‚é—j“ú/ŠÔ‘Ñ‚ğ“ü—Í‚µ‚Ä‚­‚¾‚³‚¢B");
 		}
 
 	}
